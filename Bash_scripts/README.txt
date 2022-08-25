@@ -1,0 +1,1 @@
+Simple bash scripts, every script should be self-explainatory.

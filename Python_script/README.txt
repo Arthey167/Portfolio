@@ -1,0 +1,1 @@
+Simple Python script to ping a website and write the result to a file.
